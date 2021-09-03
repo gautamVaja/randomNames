@@ -1,0 +1,26 @@
+.card {
+  margin-top: 13%;
+  background-color: #b39666;
+}
+.card-title {
+  /* Georgia, Arial and Helvetica. */
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+}
+.card-text {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#get-btn {
+  background-color: #fed934;
+  border: 0;
+  color: black;
+  font-family: cursive;
+}
+#data {
+  background-color: #b39666;
+  margin: 13px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-family: cursive;
+  color: #fbf704;
+}
